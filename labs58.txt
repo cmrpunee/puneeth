@@ -1,0 +1,25 @@
+your choice r/p/s: r
+your chose: r  computer chose: r
+draw
+your choice r/p/s: s
+your chose: s  computer chose: s
+draw
+your choice r/p/s: p
+your chose: p  computer chose: p
+draw
+your choice r/p/s: p
+your chose: p  computer chose: s
+i losse!
+your choice r/p/s: s
+your chose: s  computer chose: s
+draw
+your choice r/p/s: r
+your chose: r  computer chose: s
+draw
+your choice r/p/s: s
+your chose: s  computer chose: s
+draw
+your choice r/p/s: p
+your chose: p  computer chose: p
+draw
+
