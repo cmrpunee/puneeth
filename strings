@@ -1,0 +1,40 @@
+404:: command not found
+dl113@soetcse:~$ python
+Python 2.7.15rc1 (default, Apr 15 2018, 21:51:34) 
+[GCC 7.3.0] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> a="Hello"
+>>> print(a[3])
+l
+>>> print(a[4])
+o
+>>> print(len(a))
+5
+>>> print(a.lower())
+hello
+>>> print(a.upper())
+HELLO
+>>> a= " mechanical Boyzzzzzzzzz " 
+>>> print(a.strip())
+mechanical Boyzzzzzzzzz
+>>> a*3
+' mechanical Boyzzzzzzzzz  mechanical Boyzzzzzzzzz  mechanical Boyzzzzzzzzz '
+>>> a+3
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: cannot concatenate 'str' and 'int' objects
+>>> a="Hello"
+>>> b="world"
+>>> print(a+b)
+Helloworld
+>>> print(a.append("DL1"))
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+AttributeError: 'str' object has no attribute 'append'
+>>> print(a.replace("H","Z"))
+Zello
+>>> a="hello"
+>>> print(a.replace("H","Z"))
+hello
+>>> 
+
